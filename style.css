@@ -1,0 +1,15 @@
+* navbar{
+    margin: 0px;
+    padding: 0px;
+}
+/*navbar */
+.icon, .textcolor{
+    color: rgb(68, 175, 175)
+}
+.icons{
+    padding-left:500px;
+}
+.icon:hover , .textcolor:hover{
+    color:rgb(44,126,98);
+}
+/* second navbar*/
